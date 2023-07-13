@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nate Woodward. I am underagraduate at MIT studying mathematics and physics. 
-- 👀 I’m generally interested in the intersection of machine learning and high energy theoretical physics. I am experienced in graph neural networks, as well as applications of advanced math in physics/ML. 
+- 👀 I’m generally interested in the intersection of machine learning, specifically non-euclidean methods, and high-energy theoretical physics. 
 - 📫 How to reach me nswood@mit.edu
 
 <!---
