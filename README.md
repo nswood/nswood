@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nate Woodward. I am an undergraduate at MIT studying mathematics and physics. 
-- 👀 I’m broeadly interested in the intersection of machine learning and high-energy theoretical physics, specifically in areas of QCD hadronization and jet substructure. I am experienced in geometric deep learning and applying NLP results to advancing machine learning performance in physics.  
+- 👀 I’m broeadly interested in the intersection of machine learning and high-energy theoretical physics, specifically in areas of better understanding QCD. I am experienced in geometric deep learning and applying NLP results to advancing machine learning performance in physics.  
 - 📫 How to reach me nswood@mit.edu
 - You can learn more on my website: http://nswood.squarespace.com
 
