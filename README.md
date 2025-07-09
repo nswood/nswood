@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nate Woodward. I am an physics PhD student at UW - Madison. 
-- 👀 I’m broeadly interested in the intersection of machine learning and high-energy theoretical physics. I am experienced in geometric deep learning and applying NLP results to advancing machine learning performance in physics.  
+- 👀 I’m broeadly interested in the intersection of machine learning and theoretical physics. I am experienced in geometric deep learning and applying NLP results to advancing machine learning performance in physics.  
 - You can learn more on my website: http://nswood.squarespace.com
 
 <!---
